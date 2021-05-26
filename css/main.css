@@ -1,0 +1,94 @@
+/* Inserta tu codigo aqui */
+
+* {
+    /* para dar el cuadriculado */
+    /* outline: 1px dotted yellowgreen;
+    margin: 0px;
+    padding: 0px; */
+}
+
+/* general */
+.centrador {
+    text-align: center;
+}
+.centro-vertical {
+    vertical-align: middle;
+}
+.pt-20 {
+    padding-top: 20%;
+}
+p {
+    font-size: calc(0.5rem + 0.5vw);
+}
+.en-linea {
+    display: inline-block;
+}
+
+/* navbar */
+.text-navbar {
+    color: #9A9EA7;
+}
+.pt-2-5 {
+    padding-top: 2.5rem!important;
+}
+
+/* nosotros */
+#img-nosotros {
+    background-image: url("../img/semilla.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+
+/* metodologia */
+#img-metodologia {
+    background-image: url("../img/metodo.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+#img-metodologia-fondo {
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+
+/* proyectos */
+.img-proyecto {
+    padding-left: 2.5rem!important;
+}
+
+/* equipo */
+.img-equipo {
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+/* blog */
+#img-blog {
+    background-image: url("../img/fondo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+.text-blog {
+    text-align: left;
+}
+
+/* redes sociales */
+.min-altura{
+    min-height: 280px;
+}
+.borde{
+    border: 2px solid #F2F2F2
+}
+
+/* pie de pagina */
+.text-derecha{
+    text-align: right;
+}
